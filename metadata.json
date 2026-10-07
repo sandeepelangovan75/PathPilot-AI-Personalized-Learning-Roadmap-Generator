@@ -1,0 +1,6 @@
+{
+  "name": "SkillPilot AI",
+  "description": "Personalized AI Learning Roadmap Generator & Career Navigator - Skill gap analysis, adaptive milestones, projects, and assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
